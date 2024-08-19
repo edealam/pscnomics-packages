@@ -1,6 +1,7 @@
-### **PSCnomics webApp**
+## **PSCnomics webApp**
 
-changeslog:
+### changeslog:
+
 2024-08-15: ver. 0.1.14
 - UI & framework:
   (+) auto check update
@@ -60,9 +61,6 @@ changeslog:
 ----------------------------------------------------------------------------------------
 2024-07-25: ver. 0.1.10
  change AppId: PSCnomics
-
-catatan instalasi:
-  untuk uninstall intalasi sebelumnya,  karena cache,reg,namspace, dan shortcut menggunakan appId baru
 ----------------------------------------------------------------------------------------
 2024-07-25: ver. 0.1.9-update.1
 - pyscnomics engine:
@@ -90,10 +88,6 @@ catatan instalasi:
   (?) fix transisi display 
 - module Sens:
   (-) drop parallel (hit performance)
-
-*) catatan u/ instalasi:
-   option all user hanya untuk admin user (run as admin)
-   target instalasi direktori tidak di lokasi yg membutuhkan user admin (__AppData/, Program files __)
 ----------------------------------------------------------------------------------------
 2024-07-23: ver. 0.1.7
 - case compare:
@@ -196,9 +190,6 @@ catatan feedback:
     (+) field: profitability_discounted (Fiscal)
     (+) field: regime (Fiscal) GS Only  
     (+) field: prod_rate_baseline (lifting)
-
-*) untuk montecarlo msh ada masalah di-memory resources: berkaitan dgn cleanup gc (garbage collection) di python, 
-   msh blum paham clean gc nya, sdh di cb pakai del ga pengaruh jg.
 ----------------------------------------------------------------------------------------
 2024-06-30:
 * update vuejs: reconstruct to support electron
