@@ -1,3 +1,12 @@
+2024-08-15: ver. 0.1.14
+- UI & framework:
+  (+) auto check update
+  (+) NPV selection Setting
+  (+) Help toolbar
+  (+) Help Dialogs (masih menggunakan pdf dummy)
+  (?) dashboard irr card switch to npv
+  (?) minor fix typo
+----------------------------------------------------------------------------------------
 2024-08-15: ver. 0.1.13
 - producer module:  
   (+) LTP & RPD Dialogs (reset fluid data)
