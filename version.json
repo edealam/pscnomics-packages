@@ -1,0 +1,12 @@
+{
+    "windows":{
+        "major":0,
+        "minor":1,
+        "build":13
+    },
+    "mac":{
+        "major":0,
+        "minor":1,
+        "build":13
+    }
+}
