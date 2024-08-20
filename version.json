@@ -8,5 +8,14 @@
         "major":0,
         "minor":1,
         "build":10
+    },
+    "tags": {
+        "win-v0.1.16": {
+           "type":"windows",
+           "major":0,
+           "minor":1,
+           "build":16
+        }
     }
+
 }
