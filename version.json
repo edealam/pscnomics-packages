@@ -15,6 +15,12 @@
            "major":0,
            "minor":1,
            "build":16
+        },
+        "mac-v0.1.16": {
+           "type":"mac",
+           "major":0,
+           "minor":1,
+           "build":16
         }
     }
 
