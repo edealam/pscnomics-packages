@@ -2,6 +2,17 @@
 
 ### changeslog:
 
+2024-08-21: ver. 0.1.18
+- UI:
+  (?) montecarlo: order column result (90-50-10)
+  (?) optimasi: fix "add as new case"
+  (+) DMO: unit period
+  (?) Lifting: unit mbopy => mstb
+  (?) Lifting: hide prod baseline (CR,CR-CR type)
+- framework:
+  (+) show notif on port inused
+  (+) delayed tooltip 
+----------------------------------------------------------------------------------------
 2024-08-21: ver. 0.1.17
 - framework:
   (?) fix pdf viewer
