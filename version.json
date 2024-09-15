@@ -9,21 +9,4 @@
         "minor":1,
         "build":10
     },
-    "tags": [
-        {
-           "tag":"win-v0.1.16",
-           "type":"win",
-           "major":0,
-           "minor":1,
-           "build":16
-        },
-        {
-           "tag":"mac-v0.1.16",
-           "type":"mac",
-           "major":0,
-           "minor":1,
-           "build":16
-        }
-    ]
-
 }
