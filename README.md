@@ -2,6 +2,18 @@
 
 ### changeslog:
 
+2024-09-15: ver. 0.1.19
+- UI/framework:
+  * (?/+) major fix/update from feedback
+  * (+) case incremental module
+  * (+) LBT module 
+  * (+) draggable & sort for project list card 
+  * (+) tooltips for cost & lifting table
+  * (+) h-3dot menu option for table card & chart card
+- filesystem:  
+  * (+) LBT data table
+  * (+) case incr. data config
+----------------------------------------------------------------------------------------
 2024-08-21: ver. 0.1.18
 - UI:
   (?) montecarlo: order column result (90-50-10)
@@ -27,7 +39,7 @@
   (+) btn "check for update" (launcher)
 ----------------------------------------------------------------------------------------
 2024-08-15: ver. 0.1.14
-- UI & framework:
+- UI & framework:  
   (+) auto check update
   (+) NPV selection Setting
   (+) Help toolbar
