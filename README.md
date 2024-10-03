@@ -2,6 +2,15 @@
 
 ### changeslog:
 
+2024-10-03: ver. 0.1.20
+- UI/framework:
+  - (+) case compare list
+  - (+) case combine list
+  - (?) fix issue export to xlsx (split info)
+  - (?) fix issue import from xlsx
+  - (+) new updater
+----------------------------------------------------------------------------------------
+
 2024-09-15: ver. 0.1.19
 - UI/framework:
   * (?/+) major fix/update from feedback
