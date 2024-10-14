@@ -3,6 +3,7 @@
   - (+) ui colapsible column
   - (?) upd. installer/updater
   - (+) upgrade builtin python=3.12.7
+  - (?) use latest engine (upd.10/14)
 - filesystem: chg header file = 18
   - (+) field: sum_undepreciated_cost
 ----------------------------------------------------------------------------------------
