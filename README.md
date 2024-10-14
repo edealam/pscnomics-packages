@@ -2,6 +2,18 @@
 
 ### changeslog:
 
+2024-10-14: ver. 0.1.22
+- UI/framework:
+  - (+) ui colapsible column
+  - (?) upd. installer/updater
+  - (+) upgrade builtin python=3.12.7
+  - (?) use latest engine (upd.10/14)
+- filesystem: chg header file = 18
+  - (+) field: sum_undepreciated_cost
+----------------------------------------------------------------------------------------
+2024-10-03: ver. 0.1.21
+- alias ver. 0.1.20
+----------------------------------------------------------------------------------------
 2024-10-03: ver. 0.1.20
 - UI/framework:
   - (+) case compare list
