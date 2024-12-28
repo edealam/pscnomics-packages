@@ -2,11 +2,11 @@
     "windows":{
         "major":0,
         "minor":1,
-        "build":28
+        "build":29
     },
     "mac":{
         "major":0,
         "minor":1,
-        "build":28
+        "build":29
     }
 }
